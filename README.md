@@ -3,7 +3,7 @@
 <img align="right",alt="coding" width="400" src=https://www.analyticsinsight.net/wp-content/uploads/2020/03/AI_Animated.gif"
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityach07&label=Profile%20views&color=0e75b6&style=flat" alt="adityach07" /> </p>
 
-- 🌱 I’m currently learning **Deep Learning and NLP**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 📫 How to reach me **adityachinthakindi16@gmail.com**
 
